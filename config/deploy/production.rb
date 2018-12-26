@@ -61,7 +61,7 @@
 #   }
 #
 set :port, 22
-set :user, 'deploy'
+set :user, 'ubuntu'
 set :deploy_via, :remote_cache
 set :use_sudo, false
 
